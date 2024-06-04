@@ -1,4 +1,4 @@
-## 1. Hafta: Bilişim Teknolojileri ve Endüstri 4.0 (Şubat 2020)
+## 1. Hafta: Bilişim Teknolojileri ve Endüstri 4.0
 
 Bu ders notları, bilişim teknolojilerinin temel kavramlarını, faydalarını, kullanım alanlarını ve Endüstri 4.0 ile olan ilişkisini ele almaktadır.
 
