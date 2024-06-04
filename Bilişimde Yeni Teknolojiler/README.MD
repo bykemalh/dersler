@@ -69,7 +69,7 @@ BT, eğitimden sağlığa, ulaşımdan güvenliğe, bankacılıktan sanata kadar
 
 Bu ders notları, bilişim teknolojilerinin temel kavramlarına ve kullanım alanlarına genel bir bakış sunmaktadır. Umarım sınavınızda başarılar dilerim!
 
-<br>
+<hr>
 
 Bu PDF, 3 boyutlu yazıcılar ve robotlar hakkında genel bir bakış sunmaktadır.
 

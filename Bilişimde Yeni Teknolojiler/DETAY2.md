@@ -32,7 +32,7 @@ Umarım bu detaylı açıklama faydalıdır. Bu konuları araştırarak daha faz
 
 
 
-<br>
+<hr>
 
 
 Örnek Sorulara Cevaplar:

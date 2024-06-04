@@ -33,8 +33,8 @@
 **Özet**
 Bu PDF, Nesnelerin İnterneti (IoT) kavramını, gelişim evrelerini, uygulama alanlarını ve bileşenlerini detaylı bir şekilde açıklamaktadır. IoT'nin, cihazların birbirleriyle iletişim kurmasını ve insan hayatını kolaylaştırmayı amaçlayan bir ekosistem olduğu vurgulanmaktadır. Bu kapsamda, enerji, sağlık, güvenlik gibi birçok alanda IoT uygulamaları ile hayatın daha konforlu hale getirilmesi hedeflenmektedir.
 
-<br>
-    
+<hr>
+
 1. **Nesnelerin İnterneti (IoT) nedir ve temel amacı nedir?**
 2. **İnternetin gelişim evreleri nelerdir ve her bir evrede hangi gelişmeler yaşanmıştır?**
 3. **IoT'nin günlük yaşamda kullanılabilecek bazı uygulama örneklerini açıklayınız.**

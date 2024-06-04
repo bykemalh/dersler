@@ -44,7 +44,7 @@
 Bu PDF, AG'nin tanımı, tarihçesi, kullanılan donanım ve yazılımlar, işaretçiler ve AG çeşitleri hakkında kapsamlı bilgi sağlamaktadır. AG'nin eğitimden pazarlamaya, tıptan oyun sektörüne kadar geniş bir yelpazede kullanıldığı vurgulanmıştır.
 
 
-<br>
+<hr>
 
 1. **Artırılmış Gerçeklik (AG) teknolojisi nedir ve nasıl tanımlanır?**
 2. **AG teknolojisinin tarihçesi nedir? İlk kullanım alanları nelerdir?**

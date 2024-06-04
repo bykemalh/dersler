@@ -11,7 +11,7 @@
 9.  **Bilişim teknolojilerinin çevresel etkileri nelerdir?**
 10. **Gelecekte bilişim teknolojilerinin hangi alanlarda daha fazla gelişme göstereceğini düşünüyorsunuz?**
 
-<br>
+<hr>
 
 Elbette, işte PDF'teki konuyla ilgili bazı sorular:
 
@@ -37,7 +37,7 @@ Elbette, işte PDF'teki konuyla ilgili bazı sorular:
 * 3 boyutlu yazıcılar ve robotların birlikte kullanıldığı örnekler verebilir misiniz?
 * 3 boyutlu yazıcılar ve robotların gelecekteki teknolojik gelişmelere etkisi ne olacak?
 
-<br>
+<hr>
 
 Aşağıdaki sorular, verilen PDF'deki bilgilere dayanmaktadır:
 
